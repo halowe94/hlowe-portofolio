@@ -1,0 +1,19 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+h1 {
+    font-size: 48px;
+}
+.container {
+    min-height: 100%;
+    margin-bottom: 200px;
+}
+
+#about-me {
+    padding: 50px;
+    padding-bottom: 150px;
+
+}
