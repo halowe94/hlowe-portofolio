@@ -1,2 +1,2 @@
-# Homework2
-This contains my index, portfolio, contact info, and css files for my homework
+# hlowe-portofolio
+This contains my index, portfolio of my work, and contact info input.
