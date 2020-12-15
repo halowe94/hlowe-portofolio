@@ -1,23 +1,36 @@
-
-html, body {
-    height: 100%;
-    margin: 0;
+html,
+body {
+  height: 100%;
+  margin: 0;
 }
 
 h1 {
-    font-size: 48px;
+  font-size: 48px;
 }
 .container {
-    min-height: 100%;
-    margin-bottom: 20px;
+  min-height: 100%;
+  margin-bottom: 20px;
 }
 
 #about-me {
-    padding: 50px;
-    padding-bottom: 150px;
+  padding: 50px;
+  padding-bottom: 150px;
+  /* background-color: rgba(0, 0, 0, 0.5); */
+}
+
+/* #image {
+  height: 100%;
+  width: 100%;
+} */
+
+#navbar {
+  background-color: rgb(156, 230, 238) !important;
 }
 
 .footer {
-    padding: 20px;
-    background-color: blueviolet;
+  padding: 20px;
+  background-color: rgb(156, 230, 238);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
