@@ -15,6 +15,7 @@ h1 {
 #about-me {
   padding: 50px;
   padding-bottom: 150px;
+  line-height: 24px;
   /* background-color: rgba(0, 0, 0, 0.5); */
 }
 
@@ -33,4 +34,21 @@ h1 {
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+/* #cardContainer {
+  margin-bottom: 30px;
+} */
+
+#connectCard {
+  text-align: center;
+  font-size: medium;
+  width: 33% !important;
+  margin-left: 33%;
+}
+
+#connected {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  text-align: center;
 }
