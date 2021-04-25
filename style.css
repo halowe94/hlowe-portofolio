@@ -59,5 +59,10 @@ h1 {
 
 .testimonials {
   font-style: italic;
-  font-size: 24px;
+  font-size: 18px;
+}
+
+.heading {
+  font-size: 36px;
+  padding-bottom: 20px;
 }
