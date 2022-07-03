@@ -21,6 +21,7 @@ h1 {
 
 #about-image {
   border-radius: 20%;
+  border: double 7px #808080;
 }
 
 /* #image {
