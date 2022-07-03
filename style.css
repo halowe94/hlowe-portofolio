@@ -30,12 +30,20 @@ h1 {
 } */
 
 #navbar {
-  background-color: rgb(156, 230, 238) !important;
+  background-color: #8b6979 !important;
+}
+
+#logo {
+  font-size: 140%;
+}
+
+#navbarTogglerDemo01 {
+  font-size: 110%;
 }
 
 .footer {
   padding: 20px;
-  background-color: rgb(156, 230, 238);
+  background-color: #8b6979;
   position: fixed;
   bottom: 0;
   width: 100%;
