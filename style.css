@@ -69,13 +69,17 @@ h1 {
   text-align: center;
   font-size: medium;
   width: 33% !important;
+  margin-top:8%;
   margin-left: 33%;
+  margin-bottom: 10%;
 }
 
 #connected {
   margin-top: 20px;
   margin-bottom: 50px;
   text-align: center;
+  justify-content: center;
+  border: 1px solid #AEAEAE;
 }
 
 #resumeBtn {
