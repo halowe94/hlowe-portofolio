@@ -41,6 +41,18 @@ h1 {
   font-size: 110%;
 }
 
+.transition {
+  border: 1px solid #AEAEAE;
+  background-color: #723f57;
+  transition: 0.3s;
+  margin-top: 10px;
+}
+
+.transition:hover {
+  background-color: #AEAEAE;
+  border: 1px solid #723f57;
+}
+
 .footer {
   padding: 20px;
   background-color: #8b6979;
