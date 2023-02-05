@@ -11,8 +11,8 @@ $("#natLauren").click(function () {
   window.open("https://halowe94.github.io/natalie-lauren-project/");
 });
 
-$("#fitnessTracker").click(function () {
-  window.open("https://workout-tracker-mongo123.herokuapp.com/");
+$("#figma").click(function () {
+  window.open("https://www.figma.com/file/nYvQKAPOKVZxn1L2SDPvZx/Natalie-Lauren-Prototype?node-id=0%3A1&t=us7yPcMtjk7SaylG-1");
 });
 
 $("#nodeCLI").click(function () {
