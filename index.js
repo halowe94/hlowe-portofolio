@@ -7,8 +7,8 @@ $("#journeyOn").click(function () {
   window.open("https://halowe94.github.io/JourneyOn/");
 });
 
-$("#dinnerTable").click(function () {
-  window.open("https://stark-stream-40899.herokuapp.com/");
+$("#natLauren").click(function () {
+  window.open("https://halowe94.github.io/natalie-lauren-project/");
 });
 
 $("#fitnessTracker").click(function () {
